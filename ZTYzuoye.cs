@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class 软件作业 : MonoBehaviour {
+    printf（“武汉加油！！！,\n”）;
 
     Camera mCamera;
     public enum zty
